@@ -1,0 +1,7 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1751332700
+Dice.png::CompressedTexture2D/CompressedTexture2D::3626758880638222431::1737672201::1742341083::1::::<><><>0<>0<>8229bb002236197d218af8eaf9bfbc0f<>res://.godot/imported/Dice.png-882c6eafe4e41c1ad8b5d2d9c8d260aa.ctex::
+export_presets.cfg::TextFile/TextFile::-1::1737673599::0::1::::<><><>0<>0<><>::
+game.gd::GDScript/GDScript::2396269829222030266::1737673498::0::1::::<>Node2D<><>0<>0<><>::
+game.tscn::PackedScene::8962735336704191826::1742341129::0::1::::<><><>0<>0<><>::uid://bae1hjmtyhc2e::::res://game.gd<>uid://brw3gomb3yml0::::res://Dice.png
+icon.svg::CompressedTexture2D/CompressedTexture2D::8675468126631499382::1737671834::1742341083::1::::<><><>0<>0<>808364acb4f87186ed7fcc632915b0fb<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
